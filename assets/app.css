@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+@source "../assets/components";
+@source "../templates";
+@source "../vendor/symfony/twig-bridge/Resources/views/Form";
